@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UNIver3</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_list_of_mentors">Mentors Available</string>
+    <string name="title_activity_available_tennis_mentors">Tennis mentors near you</string>
+    <string name="title_activity_anne_profile">Anne\'s Profile</string>
+</resources>
